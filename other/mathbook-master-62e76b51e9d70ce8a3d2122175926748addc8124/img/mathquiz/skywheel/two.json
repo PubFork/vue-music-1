@@ -1,0 +1,21 @@
+{
+
+"images": [
+    "two.png"
+],
+
+"frames": [
+    [1, 1, 162, 157, 0, -5, -3],
+    [165, 1, 154, 150, 0, -9, -6]
+],
+
+"animations": {
+    "two": { "frames": [1, 0] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:df6a83de869bde02028c6288313524d6:9d51b25517effe42229721d3fcfc1b0f:6a52834ba323f5d862ec3b23fed374a4$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

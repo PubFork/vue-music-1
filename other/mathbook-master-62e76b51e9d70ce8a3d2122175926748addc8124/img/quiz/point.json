@@ -1,0 +1,21 @@
+{
+
+"images": [
+    "point.png"
+],
+
+"frames" [
+    [1, 1, 38, 42, 0, -1, 0],
+    [41, 1, 38, 42, 0, -1, 0]
+],
+
+"animations": {
+    "point": { "frames": [0, 1] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:2aff97c471fd1a18ae11910a4a00b8a4:2fd4bb27995febf5aa6455c04d68cb68:9b3b1cf7dde707638690f6f4d9db0ad4$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

@@ -1,0 +1,27 @@
+{
+
+"images": [
+    "4middle.png"
+],
+
+"frames": [
+    [1, 1, 170, 259, 0, -81, -27],
+    [1, 1, 170, 259, 0, -81, -123],
+    [1, 262, 176, 247, 0, -78, -46],
+    [173, 1, 180, 244, 0, -76, -140],
+    [173, 1, 180, 244, 0, -76, -140],
+    [1, 511, 194, 206, 0, -69, -185],
+    [179, 247, 180, 236, 0, -76, -79],
+    [197, 485, 186, 224, 0, -73, -163]
+],
+
+"animations": {
+    "4middle": { "frames": [3, 7, 6, 2, 0, 4, 5, 1] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:7f794ccb02a59ef9f5f54da788f012ac:2003a29db7579d7a356664cca1248f1f:eef1804f22b9486be8e42ee8d3598e2d$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

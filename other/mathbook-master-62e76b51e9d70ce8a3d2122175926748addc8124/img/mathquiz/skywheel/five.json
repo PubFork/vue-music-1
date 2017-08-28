@@ -1,0 +1,21 @@
+{
+
+"images": [
+    "five.png"
+],
+
+"frames": [
+    [1, 1, 162, 157, 0, -5, -3],
+    [165, 1, 154, 150, 0, -9, -6]
+],
+
+"animations": {
+    "five": { "frames": [1, 0] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:792a1c63d4bc795af5c732aacdb068e8:eab4688f3746ba69fba1cd454daa123c:a994f3b31849174a06db95db4fb14a0c$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

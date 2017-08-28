@@ -1,0 +1,21 @@
+{
+
+"images": [
+    "sound-button.png"
+],
+
+"frames": [
+    [1, 1, 80, 84, 0, 0, 0],
+    [83, 1, 80, 84, 0, 0, 0]
+],
+
+"animations": {
+    "160x84两帧-声音重播按钮": { "frames": [0, 1] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:33e581a85dcc99b6edb95c78f3187112:3284aa4b369e2af2fd67666e786fd2a7:760477646497104cd135753303ba6a0c$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

@@ -1,0 +1,22 @@
+{
+
+"images": [
+    "dog.png"
+],
+
+"frames": [
+    [1, 1, 141, 194, 0, -32, -3],
+    [144, 1, 159, 181, 0, -21, -17],
+    [305, 1, 181, 167, 0, -8, -31]
+],
+
+"animations": {
+    "dog": { "frames": [0, 1, 2] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:83560a302f80ce351e6f6bf024e4ae5f:edbfcdad33d92fe4b7b3209b5dd3207b:ec6c3e0b9eb3cd3c555a7c426f3b0ee8$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

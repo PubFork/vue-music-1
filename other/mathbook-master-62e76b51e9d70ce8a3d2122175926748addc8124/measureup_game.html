@@ -1,0 +1,97 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>"How Do You Measure Up?" Quizmo</title>
+
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+
+    <link rel="apple-touch-icon-precomposed" href="img/site/site-icon.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/site/site-icon-72.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="img/site/site-icon-114.png">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+
+</head>
+
+
+<body style="background-color:#9ed45c;overflow: hidden;" onload="load()">
+
+
+    <div id="canvas_parent">
+        <img id="loadingFrame" src="img/rtlstorybook/frame.png" style="height: 100%;"> 
+        <a href="http://www.pbskids.org"><img id="loadingFramePBSLogo" src="img/site/logo.png"></a>
+        <a href="index.html"><img id="loadingFrameHome" src="img/rtlstorybook/btn_home.png"></a>
+        <img id="startBtn" src="img/rtlstorybook/start_btn.png">
+        
+        <img id="coverImg" src="img/rtlstorybook/background.jpg" >
+
+        <canvas id="gameCanvas" width="1024" height="672"></canvas>
+
+    </div>
+    
+    <!--js scripts go just before </body>-->
+    <script type="text/javascript" src="js/createjs-2015.11.26.min.js"></script>
+    <script type="text/javascript" src="js/zim.js"></script>
+    <!--<script type="text/javascript" src="js/easeljs-0.8.2.min.js"></script>
+    <script type="text/javascript" src="js/AbstractLoader.js"></script>
+    <script type="text/javascript" src="js/LoadQueue.js"></script>
+    <script type="text/javascript" src="js/TagLoader.js"></script>
+    <script type="text/javascript" src="js/XHRLoader.js"></script>
+    <script type="text/javascript" src="js/Tween.js"></script>
+    <script type="text/javascript" src="js/Ease.js"></script> -->
+
+
+    <script type="text/javascript" src="js/TextInput.js"></script>
+
+    <!--only if storybook needs box2d physics-->
+    <script type="text/javascript" src="js/Box2dWeb-2.1.a.3.min.js"></script>
+    <script type="text/javascript" src="js/physics_0.1.2.js"></script>
+    <script type="text/javascript" src="js/easelBox.js"></script>
+    <!-- -->
+    
+    <script type="text/javascript" src="js/soundmanager2-nodebug-jsmin.js"></script> 
+    <!--for debug-->
+    <!--<script type="text/javascript" src="js/soundmanager2.js"></script> -->
+
+    <script type="text/javascript" src="js/jquery-1.8.2.min.js"></script>
+
+    <script type="text/javascript" src="js/loaderandsizer.js"></script>
+    <script type="text/javascript" src="js/utils.js"></script>
+    <script type="text/javascript" src="js/rtlstorybook.js"></script>
+    
+    <script type="text/javascript" src="js/quizmo_assets.js"></script>
+    <script type="text/javascript" src="js/quiz_cover.js"></script>
+    <script type="text/javascript" src="js/quizmo_pie.js"></script>
+    <script type="text/javascript" src="js/quizmo_select.js"></script>
+    <script type="text/javascript" src="js/quizmo_memory.js"></script>
+    <script type="text/javascript" src="js/quizmo_match.js"></script>
+    <script type="text/javascript" src="js/quizmo_scene.js"></script>
+    <!--<script type="text/javascript" src="js/quizmo_splat.js"></script>
+    <script type="text/javascript" src="js/quizmo_lazer.js"></script>
+    <script type="text/javascript" src="js/quizmo_biscuit.js"></script>
+    <script type="text/javascript" src="js/quizmo_burger.js"></script>
+    <script type="text/javascript" src="js/quizmo_alphabet.js"></script>-->
+    <script type="text/javascript" src="js/quizmo_gapfill.js"></script>
+    <script type="text/javascript" src="js/quizmo_dragdrop.js"></script>
+    <script type="text/javascript" src="js/quizmo_dragdrop2.js"></script>
+    <script type="text/javascript" src="js/quizmo_link.js"></script>
+    <script type="text/javascript" src="js/quizmo_link2.js"></script>
+    <script type="text/javascript" src="js/quizmo_conveyer.js"></script>
+    <script type="text/javascript" src="js/quizmo_rope.js"></script>
+    <script type="text/javascript" src="js/quizmo_skywheel.js"></script>
+    <script type="text/javascript" src="js/quizmo_scale.js"></script>
+    <script type="text/javascript" src="js/quizmo_fishing.js"></script>
+
+    <script type="text/javascript" src="js/measureup_quiz.js"></script>
+    <script type="text/javascript" src="js/measureup_quiz_end.js"></script>
+
+
+</body>
+
+
+
+</html>
+

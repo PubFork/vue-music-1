@@ -1,0 +1,21 @@
+{
+
+"images": [
+    "eight.png"
+],
+
+"frames": [
+    [1, 1, 162, 157, 0, -5, -3],
+    [165, 1, 154, 150, 0, -9, -6]
+],
+
+"animations": {
+    "eight": { "frames": [1, 0] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:ad541b0495f5dfef8a800e0249fb63fe:c8fad22d1fe56d655f81c2eb665a2c6c:1ea90678e4b46314475ef6575abc9b32$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

@@ -1,0 +1,97 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN">
+<html>
+<head>
+<title>Martha Speaks . Page Not Found | PBS KIDS</title>
+<style type="text/css">/* <![CDATA[ */
+@import "/martha/css/base.css";
+
+body { font: helvetica,arial,sans-serif; }
+span { color: #666; }
+p {
+margin-bottom:1em;
+}
+a { color: #66c; }
+
+div#err404 {
+	margin-top:20px;
+	margin-left:30px;
+	background-image:url("/martha/i/error404-clown.jpg");
+	width:940px;
+	height:430px;
+	font-size:12px;
+	margin-bottom:2em;
+}
+
+
+div#errortext {
+
+	margin-left:550px;
+	padding-top:50px;
+	width:300px;
+}
+
+h3 {
+	margin-bottom:1em;
+}
+
+/* ]]> */</style>
+
+<!--#include virtual="/includes/global/global-pbskids-head.html" -->
+<script type="text/javascript" src="/martha/j/jquery.min.js"></script>
+<script type="text/javascript" src="/martha/j/jquery.jblitter.js"></script>
+<script type="text/javascript" src="/martha/j/navbar1000_sub.js"></script>
+</head>
+<body>
+<!--#include virtual="/includes/globalinc.html" -->
+<div id="globalnav" style="background-image:url('/martha/i/kitchenfloor.png'); background-repeat:no-repeat; width:1000px;">
+	
+	<a href="/pbskidsgo/"><img src="/martha/i/pbslogo.gif" [attributes] style="margin-left:10px; margin-right:10px; margin-bottom:55px;"/></a>
+
+	<canvas id="logo" width="205" height="133" style="cursor:pointer;">
+		<a href="/martha/index.html"><img src="/martha/i/static_marthalogo.png"></a>
+	</canvas>
+
+	<!--<img src="i/spacer.gif" width="15px">-->
+
+	<canvas id="games" width="143" height="133" style="cursor:pointer;">
+		<a href="/martha/games/index.html"><img src="/martha/i/static_steak.png"></a>
+	</canvas>
+
+	<canvas id="print" width="163" height="133" style="cursor:pointer;">
+		<a href="/martha/prints/index.html"><img src="/martha/i/static_chickenleg.png"></a>
+	</canvas>
+
+	<canvas id="video" width="146" height="133" style="cursor:pointer;">
+		<a href="/martha/videos/index.html"><img src="/martha/i/static_hotdog.png"></a>
+	</canvas>
+	
+	<!--Martha's Stories	-->
+	<canvas id="stories" width="199" height="133" style="cursor:pointer;">
+		<a href="/martha/stories/index.html"><img src="i/static_storybook.png"></a>
+	</canvas>
+	
+</div>
+<div id="err404">
+<div id="errortext">
+<h3>Hey, stop clownin' around. Let's get back to my site!</h3>
+<p>The page you're looking for might have moved.</p>
+
+<p>If you typed the address yourself, make sure you typed it exactly right.</p>
+
+<p>Go to our <a href="/martha/parentsteachers/site/sitemap.html">Site Map</a> or use your back button to go back.</p>
+</div>
+</div>
+<!-- #bbinclude "bottomnav.incl" -->
+<div id="footernav">
+<a href="/martha/games/index.html">Games</a> | 
+<a href="/martha/prints/index.html">Print</a> | 
+<a href="/martha/videos/index.html">Video</a> | 
+<a href="/martha/parentsteachers/index.html">Parents &amp; Teachers</a>
+<br />
+<a href="/martha/parentsteachers/site/sitemap.html">Site Map</a> |
+<a href="/martha/parentsteachers/site/copyright.html">&copy; 2014 WGBH</a> | 
+<a href="/privacy/">PBS Kids Privacy Policy</a>
+</div><br /><br /><br />
+<!-- end bbinclude -->
+</body>
+</html>

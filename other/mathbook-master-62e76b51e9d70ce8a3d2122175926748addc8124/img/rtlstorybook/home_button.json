@@ -1,0 +1,21 @@
+{
+
+"images": [
+    "home-button.png"
+],
+
+"frames": [
+    [1, 1, 80, 84, 0, 0, 0],
+    [83, 1, 80, 84, 0, 0, 0]
+],
+
+"animations": {
+    "home": { "frames": [0, 1] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:41a143ed57d69a5c84688876f5eb3cc3:9f81c1004e6c02fe4df43704fedaaeab:609e54c134a4910556580029870c6756$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

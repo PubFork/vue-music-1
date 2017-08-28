@@ -1,0 +1,22 @@
+{
+
+"images": [
+    "wrong-button.png"
+],
+
+"frames": [
+    [1, 1, 100, 96, 0, 0, -4],
+    [103, 1, 100, 96, 0, 0, -4]
+],
+
+"animations": {
+    "错01": { "frames": [0] },
+    "错02": { "frames": [1] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:fe71e30be95d7e6449b9c6a05a013bca:7f7c04c11d5316f2618e7457695df5e8:87b3ae1d8fe0d3dbe90ceb94d25da71b$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

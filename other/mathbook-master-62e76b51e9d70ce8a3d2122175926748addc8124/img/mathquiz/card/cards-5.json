@@ -1,0 +1,24 @@
+{
+
+"images": [
+    "cards-5.png"
+],
+
+"frames": [
+    [1, 1, 184, 238, 0, -21, -12],
+    [187, 1, 19, 239, 0, -92, -9],
+    [208, 1, 108, 255, 0, -42, -2],
+    [1, 242, 186, 240, 0, -10, -11],
+    [189, 258, 110, 250, 0, -52, -5]
+],
+
+"animations": {
+    "5": { "frames": [0, 4, 1, 2, 3] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:eb0ed95a3b9a25c3d01d8e8a1e4353b1:03cad0d586ce20a19d89284285925cb9:8f5b34a78ff3d9225ce0b559acee04cb$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

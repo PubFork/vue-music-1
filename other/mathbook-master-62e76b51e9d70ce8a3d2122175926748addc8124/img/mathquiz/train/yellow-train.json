@@ -1,0 +1,17 @@
+{
+
+"images": [
+    "img/mathquiz/train/yellow-train.png"
+],
+
+"frames": [
+    [1, 1, 476, 518, 0, -71, -35],
+    [1, 521, 476, 517, 0, -73, -36],
+    [1, 1040, 476, 514, 0, -73, -39]
+],
+
+"animations": {
+    "yellow-train": { "frames": [2, 1, 0] }
+}
+
+}

@@ -1,0 +1,24 @@
+{
+
+"images": [
+    "cards-10.png"
+],
+
+"frames": [
+    [1, 1, 105, 256, 0, -45, -1],
+    [1, 259, 182, 241, 0, -15, -10],
+    [108, 1, 180, 239, 0, -20, -11],
+    [185, 242, 109, 250, 0, -51, -4],
+    [290, 1, 19, 239, 0, -92, -8]
+],
+
+"animations": {
+    "10": { "frames": [2, 3, 4, 0, 1] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:e38d10143fa71590d7076e45c1d30c73:3f019f070e60b9ec5bb419f483f4a97f:233f7a7045a1450370683ba6bb7fc12a$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

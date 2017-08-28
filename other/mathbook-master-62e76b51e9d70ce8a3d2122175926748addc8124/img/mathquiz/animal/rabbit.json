@@ -1,0 +1,27 @@
+{
+
+"images": [
+    "rabbit.png"
+],
+
+"frames": [
+    [1, 1, 210, 300, 0, -66, -60],
+    [213, 1, 230, 297, 0, -44, -11],
+    [445, 1, 269, 291, 0, -21, -6],
+    [716, 1, 235, 288, 0, -37, -36],
+    [953, 1, 184, 287, 0, -76, -71],
+    [1139, 1, 189, 285, 0, -69, -45],
+    [1330, 1, 297, 277, 0, -2, -11],
+    [1629, 1, 164, 275, 0, -77, -84]
+],
+
+"animations": {
+    "rabbit": { "frames": [0, 4, 7, 5, 1, 2, 6, 3] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:987c3cfceb996bc36b927eccb00124fb:5dfe8dc388b6c6a41b8b6b6198c264ed:728f3986df73c95a11c23983e61158cd$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

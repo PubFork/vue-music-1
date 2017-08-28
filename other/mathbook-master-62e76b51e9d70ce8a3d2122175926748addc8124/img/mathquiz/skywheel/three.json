@@ -1,0 +1,21 @@
+{
+
+"images": [
+    "three.png"
+],
+
+"frames": [
+    [1, 1, 162, 157, 0, -5, -3],
+    [165, 1, 154, 150, 0, -9, -6]
+],
+
+"animations": {
+    "three": { "frames": [1, 0] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:295c4abb3ab42a421fc55c2e128d58f6:bd7453e8cf18839534f0b6c757065673:4f04ad83c689e7460c755fef59868aeb$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

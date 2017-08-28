@@ -1,0 +1,274 @@
+/*use font-family name in params when creating new createjs.Text*/
+
+/*OLD import any google webfonts here*/
+/*
+@import url(http://fonts.googleapis.com/css?family=Nunito:400,700);
+
+@font-face {
+  font-family: 'Nunito', Arial, serif; font-weight: 400;
+}
+*/
+
+@font-face {
+    font-family: 'Nunito';
+    src: url('../font/Nunito-Regular.ttf') format('truetype');
+}
+
+/* optional test class, not needed for easelJS, but for regular html content*/
+
+.Nunito {
+    font-family: 'Nunito', Arial, serif; font-weight: 400;
+}
+
+
+body{
+    margin: 0 0 0 0;
+    overflow:hidden;
+}
+
+img{
+  border:none;
+}
+
+
+#canvas_parent{
+  position: relative;
+
+/*
+  text-align: center;
+  margin:0 auto;
+*/
+  /*border:1px solid black;*/
+  max-width: 1024px;
+}
+
+#canvas_children{
+}
+
+#gameCanvas{
+
+  max-width: 1024px;
+}
+
+#coverImg{
+  display:none;
+  position: absolute;
+  z-index:1;
+  max-width: 1024px;
+}
+
+
+#startBtn{
+  display:none;
+  position: absolute;
+
+  min-width:80px;
+
+  z-index: 2;
+
+  cursor: pointer;
+}
+
+#startBtn:hover {
+ /* background-position: -265px 0;*/
+  cursor: pointer;
+}
+
+#loadingFrame{
+  display:none;
+  position: absolute;
+  max-width: 1024px;
+
+  z-index: 2;
+}
+
+#loadingFrameTopLeft{
+  display:none;
+  position: absolute;
+  max-width: 72px;
+  min-width:42px;
+
+  margin-top:1%;
+  margin-left:1%;
+  z-index: 2;
+}
+
+#loadingFramePBSLogo{
+  display:none;
+  position: absolute;
+
+  max-width: 60px;
+  min-width:30px;
+
+  margin-top:1.5%;
+  margin-left:1.5%;
+  z-index: 2;
+}
+
+#loadingFrameTopRight{
+  display:none;
+  position: absolute;
+
+  max-width: 80px;
+  min-width:42px;
+
+  margin-top:1%;
+  z-index: 2;
+}
+
+
+#loadingFrameHome{
+  display:none;
+  position: absolute;
+  /*right:2%;*/
+  max-width: 46px;
+  min-width:30px;
+
+  margin-top:1.8%;
+  z-index: 2;
+}
+
+#loadingTxt{
+  font-family: "Nunito";
+  font-size: 20px;
+
+  position:fixed;
+  bottom:5%;
+  left:20% ;
+
+  z-index:3;
+}
+
+/*video page stuff*/
+#video-parent{
+
+}
+
+#video-wrapper{
+  position:fixed;
+
+}
+#video-frame{
+  position: fixed;
+}
+
+#videoFrameTopLeft{
+  position: fixed;
+}
+#videoFrameTopRight{
+  position: fixed;
+}
+
+#player1{
+
+}
+
+#video-gamebtn{
+  position:fixed;
+  margin-left:670px;
+
+  z-index:200;
+
+}
+#video-homebtn{
+  position:fixed;
+
+}
+#video-pbsbtn{
+  position:fixed;
+}
+
+#video-pbsbtn img{
+  width:50px;
+  height:auto;
+}
+
+#video-gamebtn{
+  position:fixed;
+}
+
+#video-gamebtn img{
+  width:88px;
+  height:auto;
+}
+
+/*managing different positioning of right-side elements based on width breakpoints*/
+@media (max-width: 499px) {
+  #loadingFrameTopRight{
+    right:5%;
+  }
+  #loadingFrameHome{
+    right:6%;
+  }
+  #startBtn{
+    right:10%
+  }
+}
+
+@media (min-width: 500px) and (max-width: 1039px) {
+    #loadingFrameTopRight{
+      right:6%;
+    }
+    #loadingFrameHome{
+      right:6.8%;
+    }
+
+    #startBtn{
+      right:10%
+    }
+}
+
+
+@media (min-width: 1040px) and (max-width: 1085px) {
+    #loadingFrameTopRight{
+      right:5.5%;
+    }
+    #loadingFrameHome{
+      right:6.5%;
+    }
+
+    #startBtn{
+      right:10%
+    }
+
+}
+
+@media (min-width: 1086px) and (max-width: 1092px) {
+    #loadingFrameTopRight{
+      right:4.5%;
+    }
+    #loadingFrameHome{
+      right:4.5%;
+    }
+
+    #startBtn{
+      right:9%
+    }
+}
+
+@media (min-width: 1093px) and (max-width: 1123px) {
+    #loadingFrameTopRight{
+      right:3.8%;
+    }
+    #loadingFrameHome{
+      right:4.6%;
+    }
+
+    #startBtn{
+      right:9%
+    }
+
+}
+
+@media (min-width: 1124px) {
+    #loadingFrameTopRight{
+      right:1.8%;
+    }
+    #loadingFrameHome{
+      right:2.6%;
+    }
+
+    #startBtn{
+      right:5%
+    }
+}

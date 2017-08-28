@@ -1,0 +1,27 @@
+{
+
+"images": [
+    "7middle.png"
+],
+
+"frames": [
+    [1, 1, 161, 205, 0, -44, -185],
+    [164, 1, 141, 258, 0, -57, -30],
+    [164, 1, 141, 258, 0, -57, -126],
+    [1, 208, 145, 248, 0, -54, -48],
+    [148, 261, 155, 225, 0, -48, -163],
+    [307, 1, 150, 244, 0, -51, -142],
+    [307, 1, 150, 244, 0, -51, -142],
+    [307, 247, 150, 236, 0, -51, -81]
+],
+
+"animations": {
+    "7middle": { "frames": [5, 4, 7, 3, 1, 6, 0, 2] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:8454bf695aa8c7130ee34738f48b9ff2:eef124f9dd85bc119150ea3485f0d711:4106676d8d3e9f482706823118e83767$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

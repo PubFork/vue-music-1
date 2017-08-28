@@ -1,0 +1,25 @@
+{
+
+"images": [
+    "fish6.png"
+],
+
+"frames": [
+    [1, 1, 455, 148, 0, -11, -25],
+    [1, 151, 454, 148, 0, -11, -25],
+    [1, 301, 454, 147, 0, -11, -26],
+    [1, 450, 448, 146, 0, -11, -27],
+    [1, 598, 448, 146, 0, -11, -27],
+    [1, 746, 448, 146, 0, -11, -27]
+],
+
+"animations": {
+    "play": { "frames": [2, 3, 1, 4, 0, 5] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:e2254410dcbd3811c64785d813c1d8bd:69edf870530c054b7ed51447f3708518:4ecbc251c69e7b974aac7ea3c12aee91$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

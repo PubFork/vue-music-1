@@ -1,0 +1,17 @@
+{
+
+"images": [
+    "img/mathquiz/train/blue-train.png"
+],
+
+"frames": [
+    [1, 1, 478, 518, 0, -69, -35],
+    [1, 521, 478, 517, 0, -71, -36],
+    [1, 1040, 478, 514, 0, -71, -39]
+],
+
+"animations": {
+    "blue-train": { "frames": [2, 1, 0] }
+}
+
+}

@@ -1,0 +1,22 @@
+{
+
+"images": [
+    "right button.png"
+],
+
+"frames": [
+    [1, 1, 100, 75, 0, 0, 0],
+    [103, 1, 100, 75, 0, 0, 0]
+],
+
+"animations": {
+    "对01": { "frames": [0] },
+    "对02": { "frames": [1] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:ce009584f3475853ef198ad1a0871086:61663773a4d002bb06dc33ce46f59918:a23baa81475d0899a76c2e6c3405a3e8$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

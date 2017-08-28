@@ -1,0 +1,21 @@
+{
+
+"images": [
+    "six.png"
+],
+
+"frames": [
+    [1, 1, 162, 157, 0, -5, -3],
+    [165, 1, 154, 150, 0, -9, -6]
+],
+
+"animations": {
+    "six": { "frames": [1, 0] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:b402f217e36a4b723a4c4d3526ece219:3320fa1c281a040178a8224341245ff8:d8e9c852d26ad14b314d1d68145957ba$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

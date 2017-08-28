@@ -1,0 +1,21 @@
+{
+
+"images": [
+    "four.png"
+],
+
+"frames": [
+    [1, 1, 162, 157, 0, -5, -3],
+    [165, 1, 154, 150, 0, -9, -6]
+],
+
+"animations": {
+    "four": { "frames": [1, 0] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:ab7e3bb11e9970127bb2b95e5b4776b8:3d71699167f3a869d9ec527400f7548b:149dbf458122654911ac979cbfaa6d6d$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

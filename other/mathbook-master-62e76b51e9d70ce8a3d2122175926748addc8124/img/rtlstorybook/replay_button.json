@@ -1,0 +1,21 @@
+{
+
+"images": [
+    "replay-button.png"
+],
+
+"frames": [
+    [1, 1, 80, 84, 0, 0, 0],
+    [83, 1, 80, 84, 0, 0, 0]
+],
+
+"animations": {
+    "游戏重玩按钮": { "frames": [0, 1] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:7679a5cfaa845bc5e254ebb168a41f16:fe7d809401844b30937e9c14fdf513e3:580c2e6b88a250c84cedec166b1dd975$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

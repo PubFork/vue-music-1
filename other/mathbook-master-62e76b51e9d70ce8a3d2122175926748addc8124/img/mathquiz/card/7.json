@@ -1,0 +1,24 @@
+{
+
+"images": [
+    "cards-7.png"
+],
+
+"frames": [
+    [1, 1, 101, 243, 0, -45, -6],
+    [104, 1, 108, 237, 0, -54, -9],
+    [214, 1, 178, 234, 0, -13, -11],
+    [394, 1, 176, 232, 0, -26, -12],
+    [572, 1, 19, 228, 0, -92, -13]
+],
+
+"animations": {
+    "7": { "frames": [3, 1, 4, 0, 2] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:ecd8ddf72c216e4e28f2cc932e46f827:d6f762b494c54e37cb7bccd69a06d9bf:7b76347f94bdf982f388f220c61fbdf7$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

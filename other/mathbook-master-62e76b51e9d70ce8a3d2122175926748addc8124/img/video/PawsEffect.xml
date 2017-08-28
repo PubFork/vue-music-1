@@ -1,0 +1,405 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling">
+   <head>
+      <styling>
+         <style
+            xml:id="defaultSpeaker"
+            tts:backgroundColor="black"
+            tts:color="#ffffff"
+            tts:extent="80% 10%"
+            tts:fontFamily="Arial"
+            tts:fontSize="10px"
+            tts:fontStyle="normal"
+            tts:fontWeight="normal"
+            tts:origin="10% 85%"
+            tts:textAlign="center"
+            tts:textDecoration="none">
+         </style>
+         <style
+            xml:id="defaultCaption"
+            tts:backgroundColor="black"
+            tts:color="#ffffff"
+            tts:fontFamily="Arial"
+            tts:fontSize="10px"
+            tts:fontStyle="normal"
+            tts:fontWeight="normal"
+            tts:textAlign="center"
+            tts:textDecoration="none">
+         </style>
+      </styling>
+      <layout>
+         <region style="defaultSpeaker" xml:id="speaker"></region>
+      </layout>
+   </head>
+   <body xml:id="thebody" style="defaultCaption">
+      <div xml:lang="en">
+         <p begin="00:00:03.400" end="00:00:05.667" region="speaker">She went... and... and...(barking, growls)</p>
+         <p begin="00:00:05.667" end="00:00:07.700" region="speaker">When she atesome alphabet soup</p>
+         <p begin="00:00:07.700" end="00:00:09.800" region="speaker">Then what happenedwas bizarre...</p>
+         <p begin="00:00:09.800" end="00:00:13.500" region="speaker">On the way to Martha&apos;s stomach,the letters lost their way.</p>
+         <p begin="00:00:13.500" end="00:00:15.900" region="speaker">They traveled to her brainand now...</p>
+         <p begin="00:00:15.900" end="00:00:18.100" region="speaker">She&apos;s got a lot to say</p>
+         <p begin="00:00:18.100" end="00:00:19.333" region="speaker">Now she speaks...</p>
+         <p begin="00:00:19.333" end="00:00:20.800" region="speaker">How now, brown cow?</p>
+         <p begin="00:00:20.800" end="00:00:23.100" region="speaker">Martha speaks, yeah,she speaks and speaks</p>
+         <p begin="00:00:23.100" end="00:00:24.867" region="speaker">And speaks and speaksand speaks...</p>
+         <p begin="00:00:24.867" end="00:00:25.867" region="speaker">What&apos;s a caboose?</p>
+         <p begin="00:00:25.867" end="00:00:26.900" region="speaker">When are we eating again?</p>
+         <p begin="00:00:26.900" end="00:00:28.367" region="speaker">Martha speaks...</p>
+         <p begin="00:00:28.367" end="00:00:29.500" region="speaker">Hey, Joe, what do you know?</p>
+         <p begin="00:00:29.500" end="00:00:31.266" region="speaker">My name&apos;s not Joe.</p>
+         <p begin="00:00:31.266" end="00:00:33.900" region="speaker">She&apos;s not always right,but still that Martha speaks.</p>
+         <p begin="00:00:33.900" end="00:00:35.567" region="speaker">Hi, there!</p>
+         <p begin="00:00:35.567" end="00:00:37.633" region="speaker">She&apos;s got a voice,she&apos;s ready to shout</p>
+         <p begin="00:00:37.633" end="00:00:39.867" region="speaker">Martha will tell youwhat it&apos;s all about</p>
+         <p begin="00:00:39.867" end="00:00:42.000" region="speaker">Sometimes wrongbut seldom in doubt</p>
+         <p begin="00:00:42.000" end="00:00:44.066" region="speaker">Martha will tell youwhat it&apos;s all about</p>
+         <p begin="00:00:44.066" end="00:00:45.533" region="speaker">That dog&apos;s unique...</p>
+         <p begin="00:00:45.533" end="00:00:46.934" region="speaker">Testing, one, two!</p>
+         <p begin="00:00:46.934" end="00:00:48.333" region="speaker">Hear her speak</p>
+         <p begin="00:00:48.333" end="00:00:49.333" region="speaker">Martha speaks and speaks</p>
+         <p begin="00:00:49.333" end="00:00:50.767" region="speaker">And speaks and speaksand...</p>
+         <p begin="00:00:50.767" end="00:00:51.967" region="speaker">Communicates, enumerates</p>
+         <p begin="00:00:51.967" end="00:00:52.867" region="speaker">Elucidates, exaggerates</p>
+         <p begin="00:00:52.867" end="00:00:54.300" region="speaker">Indicates and explicates</p>
+         <p begin="00:00:54.300" end="00:00:55.166" region="speaker">Bloviates and overstatesand...</p>
+         <p begin="00:00:55.166" end="00:00:56.433" region="speaker">(panting)</p>
+         <p begin="00:00:56.433" end="00:00:57.533" region="speaker">...hyperventilates!</p>
+         <p begin="00:00:57.533" end="00:00:58.900" region="speaker">Martha, to reiterate</p>
+         <p begin="00:00:58.900" end="00:01:00.367" region="speaker">Martha speaks!Martha speaks.</p>
+         <p begin="00:01:07.400" end="00:01:09.400" region="speaker">(Skits barks)</p>
+         <p begin="00:01:09.400" end="00:01:10.967" region="speaker">MARTHA:Throw it here!</p>
+         <p begin="00:01:10.967" end="00:01:12.066" region="speaker">Throw it to me!</p>
+         <p begin="00:01:12.066" end="00:01:13.133" region="speaker">Ready...</p>
+         <p begin="00:01:14.967" end="00:01:15.934" region="speaker">Tabby!</p>
+         <p begin="00:01:15.934" end="00:01:17.266" region="speaker">(hisses)</p>
+         <p begin="00:01:17.266" end="00:01:18.700" region="speaker">Back in a flash!</p>
+         <p begin="00:01:18.700" end="00:01:19.934" region="speaker">Martha!</p>
+         <p begin="00:01:19.934" end="00:01:21.200" region="speaker">MARTHA:Tabby, tabby, tabby!</p>
+         <p begin="00:01:21.200" end="00:01:22.600" region="speaker">MARTHA:After it!</p>
+         <p begin="00:01:22.600" end="00:01:23.900" region="speaker">(Skits barks)</p>
+         <p begin="00:01:23.900" end="00:01:25.133" region="speaker">(broken glass crackling)</p>
+         <p begin="00:01:25.133" end="00:01:27.800" region="speaker">(Martha yelps in pain)</p>
+         <p begin="00:01:27.800" end="00:01:29.367" region="speaker">That&apos;s Martha!</p>
+         <p begin="00:01:33.567" end="00:01:35.700" region="speaker">How long is it going to take,anyway?</p>
+         <p begin="00:01:35.700" end="00:01:38.000" region="speaker">She didn&apos;t say.</p>
+         <p begin="00:01:38.000" end="00:01:39.867" region="speaker">You guys,what happened?</p>
+         <p begin="00:01:39.867" end="00:01:41.333" region="speaker">Martha hurt her paw.</p>
+         <p begin="00:01:41.333" end="00:01:42.300" region="speaker">How?</p>
+         <p begin="00:01:42.300" end="00:01:44.066" region="speaker">She cut it on some glass.</p>
+         <p begin="00:01:44.066" end="00:01:45.834" region="speaker">The vet is giving her stitches.</p>
+         <p begin="00:01:45.834" end="00:01:47.734" region="speaker">Oh no! Poor Martha.</p>
+         <p begin="00:01:47.734" end="00:01:49.467" region="speaker">How did it happen?</p>
+         <p begin="00:01:49.467" end="00:01:51.800" region="speaker">We were in the park...</p>
+         <p begin="00:01:51.800" end="00:01:54.467" region="speaker">(Martha yelps in pain)</p>
+         <p begin="00:01:54.467" end="00:01:56.100" region="speaker">Martha!</p>
+         <p begin="00:01:56.100" end="00:01:58.667" region="speaker">Ow! My paw.</p>
+         <p begin="00:01:58.667" end="00:01:59.834" region="speaker">Martha!</p>
+         <p begin="00:01:59.834" end="00:02:01.633" region="speaker">Stand back!</p>
+         <p begin="00:02:01.633" end="00:02:03.233" region="speaker">Stay calm,Martha.</p>
+         <p begin="00:02:03.233" end="00:02:04.600" region="speaker">Keep your weightoff of it.</p>
+         <p begin="00:02:04.600" end="00:02:06.633" region="speaker">(shouts):Someone call 911!</p>
+         <p begin="00:02:06.633" end="00:02:08.600" region="speaker">I&apos;m going to need a tourniquet.</p>
+         <p begin="00:02:08.600" end="00:02:09.934" region="speaker">(grunts)</p>
+         <p begin="00:02:09.934" end="00:02:11.567" region="speaker">This&apos;ll have to do.</p>
+         <p begin="00:02:11.567" end="00:02:13.033" region="speaker">What happened?</p>
+         <p begin="00:02:13.033" end="00:02:15.934" region="speaker">She injured her foot in thattrash someone discarded.</p>
+         <p begin="00:02:15.934" end="00:02:17.100" region="speaker">Discarded?</p>
+         <p begin="00:02:17.100" end="00:02:19.967" region="speaker">Discard means to throwsomething away.</p>
+         <p begin="00:02:19.967" end="00:02:22.367" region="speaker">And in this casethey weren&apos;t very careful</p>
+         <p begin="00:02:22.367" end="00:02:24.934" region="speaker">about how they discardedtheir garbage.</p>
+         <p begin="00:02:24.934" end="00:02:26.433" region="speaker">She was very lucky.</p>
+         <p begin="00:02:26.433" end="00:02:30.400" region="speaker">One more inch and it couldhave been much, much worse.</p>
+         <p begin="00:02:30.400" end="00:02:31.934" region="speaker">How are youdoing, Martha?</p>
+         <p begin="00:02:31.934" end="00:02:34.333" region="speaker">(weakly):Okay, I think.</p>
+         <p begin="00:02:34.333" end="00:02:35.533" region="speaker">Atta girl.</p>
+         <p begin="00:02:35.533" end="00:02:36.667" region="speaker">Hang in there.</p>
+         <p begin="00:02:36.667" end="00:02:38.834" region="speaker">This should stopthe flow of blood.</p>
+         <p begin="00:02:38.834" end="00:02:40.734" region="speaker">Helen, put afinger on this.</p>
+         <p begin="00:02:40.734" end="00:02:42.700" region="speaker">Helen!Snap out of it.</p>
+         <p begin="00:02:42.700" end="00:02:44.200" region="speaker">Give mea hand here.</p>
+         <p begin="00:02:44.200" end="00:02:46.367" region="speaker">Oh! Sorry, sorry...</p>
+         <p begin="00:02:46.367" end="00:02:48.000" region="speaker">It&apos;s okay,Martha.</p>
+         <p begin="00:02:48.000" end="00:02:50.266" region="speaker">You&apos;re goingto be just fine.</p>
+         <p begin="00:02:50.266" end="00:02:52.767" region="speaker">(echoing):...just fine... just fine...</p>
+         <p begin="00:02:52.767" end="00:02:55.367" region="speaker">Wow, that&apos;s amazing.</p>
+         <p begin="00:02:55.367" end="00:02:56.734" region="speaker">HELEN:It&apos;s strange,</p>
+         <p begin="00:02:56.734" end="00:02:59.333" region="speaker">that&apos;s not the wayI remember it.</p>
+         <p begin="00:02:59.333" end="00:03:02.600" region="speaker">Well, you know, it allwent by pretty quick.</p>
+         <p begin="00:03:02.600" end="00:03:04.600" region="speaker">How do you remember it, Helen?</p>
+         <p begin="00:03:04.600" end="00:03:08.667" region="speaker">Well, I heard Martha yell and...</p>
+         <p begin="00:03:08.667" end="00:03:11.934" region="speaker">(Martha yelps in pain)</p>
+         <p begin="00:03:11.934" end="00:03:13.166" region="speaker">HELEN:Martha!</p>
+         <p begin="00:03:13.166" end="00:03:15.233" region="speaker">I think I hurt my paw.</p>
+         <p begin="00:03:15.233" end="00:03:17.400" region="speaker">Blood!</p>
+         <p begin="00:03:17.400" end="00:03:19.700" region="speaker">TD?</p>
+         <p begin="00:03:19.700" end="00:03:22.367" region="speaker">That sounds muchmore likely.</p>
+         <p begin="00:03:22.367" end="00:03:25.700" region="speaker">Okay, so there were acouple teeny differences.</p>
+         <p begin="00:03:25.700" end="00:03:27.633" region="speaker">It was a life-or-deathsituation.</p>
+         <p begin="00:03:27.633" end="00:03:29.867" region="speaker">It&apos;s not like I had timeto take out a pen</p>
+         <p begin="00:03:29.867" end="00:03:31.633" region="speaker">and write down everylittle detail.</p>
+         <p begin="00:03:31.633" end="00:03:33.667" region="speaker">The main thing is thatwe got Martha here</p>
+         <p begin="00:03:33.667" end="00:03:35.433" region="speaker">and it looks likeshe&apos;ll be okay.</p>
+         <p begin="00:03:35.433" end="00:03:37.600" region="speaker">That just makesme so mad</p>
+         <p begin="00:03:37.600" end="00:03:40.133" region="speaker">that someone could be socareless with their trash</p>
+         <p begin="00:03:40.133" end="00:03:42.967" region="speaker">to hurt an innocent dogwith their hazardous junk.</p>
+         <p begin="00:03:42.967" end="00:03:46.000" region="speaker">Are you sure I didn&apos;tat least stop her bleeding?</p>
+         <p begin="00:03:46.000" end="00:03:47.367" region="speaker">Sorry, TD.</p>
+         <p begin="00:03:47.367" end="00:03:48.834" region="speaker">We should do somethingto stop this</p>
+         <p begin="00:03:48.834" end="00:03:51.500" region="speaker">before other innocent animalsget injured.</p>
+         <p begin="00:03:51.500" end="00:03:53.100" region="speaker">You&apos;re right.</p>
+         <p begin="00:03:53.100" end="00:03:54.867" region="speaker">Didn&apos;t I at least make atourniquet out of my shirt?</p>
+         <p begin="00:03:54.867" end="00:03:57.300" region="speaker">TD, you&apos;re wearing your shirt.</p>
+         <p begin="00:03:57.300" end="00:03:58.800" region="speaker">Oh. Right.</p>
+         <p begin="00:03:58.800" end="00:04:00.567" region="speaker">VET:All better.</p>
+         <p begin="00:04:00.567" end="00:04:01.633" region="speaker">Martha!</p>
+         <p begin="00:04:03.066" end="00:04:04.533" region="speaker">Okay, I&apos;m fine.</p>
+         <p begin="00:04:04.533" end="00:04:06.166" region="speaker">Now get me out of here.</p>
+         <p begin="00:04:07.233" end="00:04:08.567" region="speaker">Whoa.</p>
+         <p begin="00:04:08.567" end="00:04:11.834" region="speaker">She&apos;s going to bea little woozyfor a while.</p>
+         <p begin="00:04:11.834" end="00:04:13.600" region="speaker">Who turned the room sideways?</p>
+         <p begin="00:04:15.834" end="00:04:17.734" region="speaker">MARTHA:You don&apos;t have somethingin an argyle?</p>
+         <p begin="00:04:17.734" end="00:04:19.667" region="speaker">HELEN:The vet said to put asock over the bandage</p>
+         <p begin="00:04:19.667" end="00:04:21.166" region="speaker">to keep you fromchewing on it.</p>
+         <p begin="00:04:21.166" end="00:04:23.467" region="speaker">I can keepfrom chewing.</p>
+         <p begin="00:04:23.467" end="00:04:24.667" region="speaker">ALICE:It really isn&apos;t fair</p>
+         <p begin="00:04:24.667" end="00:04:27.033" region="speaker">animals should get injuredbecause people litter.</p>
+         <p begin="00:04:27.033" end="00:04:28.500" region="speaker">When people litter,</p>
+         <p begin="00:04:28.500" end="00:04:30.567" region="speaker">that means they just throwtheir garbage on the ground.</p>
+         <p begin="00:04:30.567" end="00:04:33.633" region="speaker">You say &amp;quot;people,&amp;quot;but somehow I still think</p>
+         <p begin="00:04:33.633" end="00:04:35.200" region="speaker">it was that tabby cat&apos;s fault.</p>
+         <p begin="00:04:35.200" end="00:04:36.433" region="speaker">(Skits barks in agreement)</p>
+         <p begin="00:04:36.433" end="00:04:38.300" region="speaker">In fact it&apos;s evenworse for animals</p>
+         <p begin="00:04:38.300" end="00:04:40.133" region="speaker">because they can&apos;tdo anything about it.</p>
+         <p begin="00:04:40.133" end="00:04:41.867" region="speaker">This will not stand.</p>
+         <p begin="00:04:41.867" end="00:04:43.967" region="speaker">It&apos;s not just badfor the environment,</p>
+         <p begin="00:04:43.967" end="00:04:45.633" region="speaker">it&apos;s hazardous for dogsand other animals.</p>
+         <p begin="00:04:45.633" end="00:04:47.800" region="speaker">(yells):This littering must stop!</p>
+         <p begin="00:04:47.800" end="00:04:49.100" region="speaker">(thunder booms)</p>
+         <p begin="00:04:49.100" end="00:04:50.266" region="speaker">Whoa.</p>
+         <p begin="00:04:50.266" end="00:04:51.834" region="speaker">Do you think that&apos;s possible?</p>
+         <p begin="00:04:51.834" end="00:04:53.367" region="speaker">I do.</p>
+         <p begin="00:04:53.367" end="00:04:57.734" region="speaker">I&apos;m trying to come up with anidea that will do just that.</p>
+         <p begin="00:04:57.734" end="00:04:58.767" region="speaker">TD?</p>
+         <p begin="00:04:58.767" end="00:04:59.967" region="speaker">What?</p>
+         <p begin="00:04:59.967" end="00:05:01.500" region="speaker">Around you,on the floor?</p>
+         <p begin="00:05:01.500" end="00:05:04.100" region="speaker">Don&apos;t worry,they&apos;re bad ideas.</p>
+         <p begin="00:05:04.100" end="00:05:05.100" region="speaker">They&apos;re litter!</p>
+         <p begin="00:05:05.100" end="00:05:06.433" region="speaker">You&apos;re littering.</p>
+         <p begin="00:05:06.433" end="00:05:09.166" region="speaker">Yeah, okay, but, I&apos;m doingimportant stuff here.</p>
+         <p begin="00:05:09.166" end="00:05:11.066" region="speaker">I&apos;m helping the environment.</p>
+         <p begin="00:05:11.066" end="00:05:12.633" region="speaker">Kid power!</p>
+         <p begin="00:05:12.633" end="00:05:13.734" region="speaker">I&apos;ll get to it.</p>
+         <p begin="00:05:13.734" end="00:05:15.033" region="speaker">(groans)</p>
+         <p begin="00:05:15.033" end="00:05:17.600" region="speaker">Time for action.</p>
+         <p begin="00:05:17.600" end="00:05:19.066" region="speaker">Mom, it&apos;s Alice.</p>
+         <p begin="00:05:19.066" end="00:05:21.300" region="speaker">Someone&apos;s been litteringand Martha&apos;s been hurt.</p>
+         <p begin="00:05:21.300" end="00:05:23.633" region="speaker">I&apos;m not coming homeuntil I figure out</p>
+         <p begin="00:05:23.633" end="00:05:25.900" region="speaker">how to stop peoplefrom being so careless.</p>
+         <p begin="00:05:25.900" end="00:05:27.033" region="speaker">(chatter from phone)</p>
+         <p begin="00:05:27.033" end="00:05:28.333" region="speaker">Okay.</p>
+         <p begin="00:05:28.333" end="00:05:29.367" region="speaker">Bye, Alice.</p>
+         <p begin="00:05:29.367" end="00:05:30.433" region="speaker">I&apos;ll be back tomorrow.</p>
+         <p begin="00:05:30.433" end="00:05:31.600" region="speaker">TD:Me too.</p>
+         <p begin="00:05:31.600" end="00:05:34.567" region="speaker">And by then, I&apos;ll havea great plan.</p>
+         <p begin="00:05:34.567" end="00:05:36.400" region="speaker">We&apos;ll have litter licked.</p>
+         <p begin="00:05:36.400" end="00:05:39.033" region="speaker">Maybe you should startwith the living room first.</p>
+         <p begin="00:05:41.767" end="00:05:44.467" region="speaker">Oh, right.</p>
+         <p begin="00:05:44.467" end="00:05:46.600" region="speaker">Martha!</p>
+         <p begin="00:05:47.633" end="00:05:48.633" region="speaker">What?</p>
+         <p begin="00:05:48.633" end="00:05:51.166" region="speaker">It itches.</p>
+         <p begin="00:05:51.166" end="00:05:53.767" region="speaker">RONALD:But you were supposedto catch today.</p>
+         <p begin="00:05:53.767" end="00:05:55.266" region="speaker">I need to practicepitching.</p>
+         <p begin="00:05:55.266" end="00:05:56.834" region="speaker">Tryouts arenext week.</p>
+         <p begin="00:05:56.834" end="00:05:58.734" region="speaker">But Martha injured her paw.</p>
+         <p begin="00:05:58.734" end="00:05:59.867" region="speaker">So?</p>
+         <p begin="00:05:59.867" end="00:06:02.066" region="speaker">It&apos;s because someone littered,Ronald.</p>
+         <p begin="00:06:02.066" end="00:06:04.333" region="speaker">How would you feel if Nelsongot some broken glass</p>
+         <p begin="00:06:04.333" end="00:06:06.200" region="speaker">in his paw?</p>
+         <p begin="00:06:06.200" end="00:06:07.633" region="speaker">Don&apos;t even say that.</p>
+         <p begin="00:06:07.633" end="00:06:10.467" region="speaker">It would be horrible ifanyone hurt poor Nelson.</p>
+         <p begin="00:06:10.467" end="00:06:11.467" region="speaker">See?</p>
+         <p begin="00:06:11.467" end="00:06:12.934" region="speaker">I&apos;ll see you later.</p>
+         <p begin="00:06:12.934" end="00:06:14.567" region="speaker">Wait up, I&apos;ll get my stuff.</p>
+         <p begin="00:06:14.567" end="00:06:15.567" region="speaker">Huh?</p>
+         <p begin="00:06:15.567" end="00:06:17.000" region="speaker">You&apos;re going to need help.</p>
+         <p begin="00:06:17.000" end="00:06:20.033" region="speaker">This is too important to leaveto a bunch of little kids.</p>
+         <p begin="00:06:20.033" end="00:06:21.200" region="speaker">(groans)</p>
+         <p begin="00:06:21.200" end="00:06:22.467" region="speaker">(grunting)</p>
+         <p begin="00:06:22.467" end="00:06:24.934" region="speaker">Itchy, itchy, itchy.</p>
+         <p begin="00:06:24.934" end="00:06:27.367" region="speaker">Can you pull the sockoff and scratch it?</p>
+         <p begin="00:06:27.367" end="00:06:28.633" region="speaker">(barks)</p>
+         <p begin="00:06:28.633" end="00:06:31.300" region="speaker">Okay, yeah, I know the vet said,but...</p>
+         <p begin="00:06:31.300" end="00:06:32.967" region="speaker">(barks)</p>
+         <p begin="00:06:32.967" end="00:06:34.433" region="speaker">Skits, I need your help.</p>
+         <p begin="00:06:34.433" end="00:06:37.467" region="speaker">Do you really think it&apos;s fairI have to sit here itching,</p>
+         <p begin="00:06:37.467" end="00:06:39.333" region="speaker">while that stinkingcat that lured us</p>
+         <p begin="00:06:39.333" end="00:06:41.900" region="speaker">into that hazardous messgets to run around loose?</p>
+         <p begin="00:06:41.900" end="00:06:44.133" region="speaker">(barks)</p>
+         <p begin="00:06:44.133" end="00:06:46.033" region="speaker">You&apos;re right,it&apos;s not fair.</p>
+         <p begin="00:06:46.033" end="00:06:47.367" region="speaker">So what arewe going to do?</p>
+         <p begin="00:06:47.367" end="00:06:49.867" region="speaker">(barks)</p>
+         <p begin="00:06:49.867" end="00:06:53.233" region="speaker">No, don&apos;t get the cat,scratch my paw!</p>
+         <p begin="00:06:53.233" end="00:06:54.700" region="speaker">(sighs)</p>
+         <p begin="00:06:56.367" end="00:06:59.166" region="speaker">Ronald, I&apos;m sure we canhandle this ourselves.</p>
+         <p begin="00:06:59.166" end="00:07:00.433" region="speaker">Are you kidding?</p>
+         <p begin="00:07:00.433" end="00:07:02.400" region="speaker">The environmentis important.</p>
+         <p begin="00:07:02.400" end="00:07:04.967" region="speaker">You need someonewith brains in charge.</p>
+         <p begin="00:07:04.967" end="00:07:06.300" region="speaker">Ow.</p>
+         <p begin="00:07:06.300" end="00:07:07.533" region="speaker">(giggles)</p>
+         <p begin="00:07:07.533" end="00:07:08.834" region="speaker">It&apos;s not funny.</p>
+         <p begin="00:07:10.400" end="00:07:12.333" region="speaker">I was thinkingabout this all night.</p>
+         <p begin="00:07:12.333" end="00:07:15.300" region="speaker">What if we all went to the parkand cleaned up the trash?</p>
+         <p begin="00:07:15.300" end="00:07:17.266" region="speaker">Set a good example,you mean?</p>
+         <p begin="00:07:17.266" end="00:07:18.834" region="speaker">Yeah!</p>
+         <p begin="00:07:18.834" end="00:07:20.734" region="speaker">No, no, noand no.</p>
+         <p begin="00:07:20.734" end="00:07:22.567" region="speaker">Whoever made the messshould clean it up.</p>
+         <p begin="00:07:22.567" end="00:07:25.633" region="speaker">And they won&apos;t until they learnnot to be so thoughtless.</p>
+         <p begin="00:07:25.633" end="00:07:27.533" region="speaker">Thoughtless?You mean dumb?</p>
+         <p begin="00:07:27.533" end="00:07:29.000" region="speaker">No.</p>
+         <p begin="00:07:29.000" end="00:07:31.734" region="speaker">Thoughtless meansselfish and careless.</p>
+         <p begin="00:07:31.734" end="00:07:34.000" region="speaker">People who are thoughtlessdon&apos;t think about anybody</p>
+         <p begin="00:07:34.000" end="00:07:35.400" region="speaker">but themselves.</p>
+         <p begin="00:07:35.400" end="00:07:37.133" region="speaker">Well, I didn&apos;t do it.</p>
+         <p begin="00:07:37.133" end="00:07:39.734" region="speaker">I guess we&apos;ll just haveto take your word for that.</p>
+         <p begin="00:07:39.734" end="00:07:40.900" region="speaker">(ball crashes)</p>
+         <p begin="00:07:40.900" end="00:07:42.066" region="speaker">(giggles)</p>
+         <p begin="00:07:42.066" end="00:07:44.467" region="speaker">Meantime we need teamwork.</p>
+         <p begin="00:07:44.467" end="00:07:46.133" region="speaker">We have to come upwith a plan</p>
+         <p begin="00:07:46.133" end="00:07:47.767" region="speaker">to show peoplehow important it is</p>
+         <p begin="00:07:47.767" end="00:07:50.633" region="speaker">to be thoughtfulinstead of careless.</p>
+         <p begin="00:07:50.633" end="00:07:52.300" region="speaker">What if...!Unh, unh, unh...</p>
+         <p begin="00:07:52.300" end="00:07:53.633" region="speaker">I&apos;m thinking.</p>
+         <p begin="00:07:53.633" end="00:07:55.266" region="speaker">Maybe...!Shh!</p>
+         <p begin="00:07:55.266" end="00:07:57.333" region="speaker">RONALD:This is going to takesome serious thought</p>
+         <p begin="00:07:57.333" end="00:07:59.166" region="speaker">and I needabsolute quiet.</p>
+         <p begin="00:07:59.166" end="00:08:02.133" region="speaker">Got it?Absolute quiet.</p>
+         <p begin="00:08:02.133" end="00:08:07.333" region="speaker">I went down Southto see my Sal</p>
+         <p begin="00:08:07.333" end="00:08:11.066" region="speaker">Sing polly wollydoodle all the day</p>
+         <p begin="00:08:11.066" end="00:08:12.333" region="speaker">Ronald...</p>
+         <p begin="00:08:12.333" end="00:08:14.233" region="speaker">Shh, this ishow I think.</p>
+         <p begin="00:08:14.233" end="00:08:16.066" region="speaker">Now, where was I?Oh yeah...</p>
+         <p begin="00:08:16.066" end="00:08:20.166" region="speaker">Fare thee well,fare thee well</p>
+         <p begin="00:08:20.166" end="00:08:24.066" region="speaker">Fare thee wellmy fairy day...</p>
+         <p begin="00:08:26.000" end="00:08:28.767" region="speaker">(barks)(meows)</p>
+         <p begin="00:08:28.767" end="00:08:30.500" region="speaker">Hey, I know!</p>
+         <p begin="00:08:30.500" end="00:08:32.867" region="speaker">We should make signstelling people to recycle.</p>
+         <p begin="00:08:32.867" end="00:08:34.233" region="speaker">Something like,</p>
+         <p begin="00:08:34.233" end="00:08:37.600" region="speaker">&quot;Hey, you! Don&apos;t throw yourtrash here-- or else!&quot;</p>
+         <p begin="00:08:37.600" end="00:08:40.500" region="speaker">Um, that soundskind of bossy.</p>
+         <p begin="00:08:40.500" end="00:08:42.000" region="speaker">(whirring noise)</p>
+         <p begin="00:08:42.000" end="00:08:44.667" region="speaker">Martha!</p>
+         <p begin="00:08:44.667" end="00:08:47.233" region="speaker">Where did you getdad&apos;s shoe polisher?</p>
+         <p begin="00:08:47.233" end="00:08:48.734" region="speaker">Well...</p>
+         <p begin="00:08:48.734" end="00:08:50.200" region="speaker">(TD whistles guiltily)</p>
+         <p begin="00:08:50.200" end="00:08:52.800" region="speaker">HELEN:TD!</p>
+         <p begin="00:08:52.800" end="00:08:54.834" region="speaker">It itches like crazy.</p>
+         <p begin="00:08:54.834" end="00:08:56.300" region="speaker">He was helping me.</p>
+         <p begin="00:08:56.300" end="00:08:57.400" region="speaker">(sighs)</p>
+         <p begin="00:08:57.400" end="00:09:00.133" region="speaker">Why do you have a sockover your hand?</p>
+         <p begin="00:09:00.133" end="00:09:01.700" region="speaker">Solidarity.</p>
+         <p begin="00:09:01.700" end="00:09:04.867" region="speaker">I figure if pets have to bearthe burden of our littering,</p>
+         <p begin="00:09:04.867" end="00:09:06.734" region="speaker">we should too.</p>
+         <p begin="00:09:06.734" end="00:09:09.000" region="speaker">Okay...</p>
+         <p begin="00:09:09.000" end="00:09:10.367" region="speaker">Wait a minute.</p>
+         <p begin="00:09:10.367" end="00:09:11.567" region="speaker">Everyone hold still.</p>
+         <p begin="00:09:12.900" end="00:09:14.500" region="speaker">Wait for it...</p>
+         <p begin="00:09:14.500" end="00:09:16.400" region="speaker">Uh-huh,idea forming...</p>
+         <p begin="00:09:16.400" end="00:09:17.734" region="speaker">Yes!</p>
+         <p begin="00:09:17.734" end="00:09:20.834" region="speaker">Oh, this is going to be good.</p>
+         <p begin="00:09:20.834" end="00:09:23.967" region="speaker">(cat meows, Skits barks)</p>
+         <p begin="00:09:26.767" end="00:09:29.333" region="speaker">(barks)</p>
+         <p begin="00:09:29.333" end="00:09:30.333" region="speaker">(meows)</p>
+         <p begin="00:09:30.333" end="00:09:31.900" region="speaker">(barks)</p>
+         <p begin="00:09:31.900" end="00:09:34.200" region="speaker">(meows)</p>
+         <p begin="00:09:36.033" end="00:09:37.033" region="speaker">(barks)</p>
+         <p begin="00:09:38.433" end="00:09:39.600" region="speaker">Ta-da.</p>
+         <p begin="00:09:39.600" end="00:09:41.800" region="speaker">Ladies and ladies,</p>
+         <p begin="00:09:41.800" end="00:09:43.433" region="speaker">meet GLOG,</p>
+         <p begin="00:09:43.433" end="00:09:46.300" region="speaker">the Giant Landslide Of Garbage.</p>
+         <p begin="00:09:46.300" end="00:09:50.433" region="speaker">One day there will be so muchstuff that people throw away</p>
+         <p begin="00:09:50.433" end="00:09:53.900" region="speaker">that garbage will beginto compact and change.</p>
+         <p begin="00:09:53.900" end="00:09:55.533" region="speaker">It will gather into its own</p>
+         <p begin="00:09:55.533" end="00:09:57.900" region="speaker">artificial intelligencelife form--</p>
+         <p begin="00:09:57.900" end="00:10:00.400" region="speaker">a giant blob of GLOG.</p>
+         <p begin="00:10:00.400" end="00:10:02.166" region="speaker">At first people will be happy</p>
+         <p begin="00:10:02.166" end="00:10:04.700" region="speaker">because they don&apos;t have toworry about littering anymore.</p>
+         <p begin="00:10:04.700" end="00:10:06.367" region="speaker">GLOG will clean it up for them.</p>
+         <p begin="00:10:06.367" end="00:10:08.834" region="speaker">&quot;I have come for your debris.&quot;</p>
+         <p begin="00:10:08.834" end="00:10:10.433" region="speaker">&quot;What&apos;s debris?&quot;</p>
+         <p begin="00:10:10.433" end="00:10:14.867" region="speaker">&quot;Debris is trash that&apos;s usuallybroken stuff lying around.&quot;</p>
+         <p begin="00:10:14.867" end="00:10:17.133" region="speaker">&quot;Come and get it!&quot;</p>
+         <p begin="00:10:18.533" end="00:10:20.433" region="speaker">&quot;Glorp!&quot;</p>
+         <p begin="00:10:20.433" end="00:10:22.066" region="speaker">&quot;Glorp!&quot;</p>
+         <p begin="00:10:22.066" end="00:10:23.767" region="speaker">&quot;Yay, GLOG!&quot;</p>
+         <p begin="00:10:23.767" end="00:10:25.266" region="speaker">(burps)</p>
+         <p begin="00:10:25.266" end="00:10:29.166" region="speaker">But then, GLOG becomeshungrier and hungrier</p>
+         <p begin="00:10:29.166" end="00:10:35.834" region="speaker">and starts gathering stuff thatisn&apos;t debris or garbage at all.</p>
+         <p begin="00:10:35.834" end="00:10:39.667" region="speaker">And then finally, GLOG willcome after the people.</p>
+         <p begin="00:10:39.667" end="00:10:42.400" region="speaker">&quot;Help! Save me!&quot;</p>
+         <p begin="00:10:42.400" end="00:10:44.433" region="speaker">&quot;Glorp!&quot;</p>
+         <p begin="00:10:44.433" end="00:10:45.867" region="speaker">How will it all end?</p>
+         <p begin="00:10:45.867" end="00:10:47.266" region="speaker">What do you think?</p>
+         <p begin="00:10:47.266" end="00:10:48.567" region="speaker">RONALD:I don&apos;t like it.</p>
+         <p begin="00:10:48.567" end="00:10:49.734" region="speaker">ALICE:Ronald!</p>
+         <p begin="00:10:49.734" end="00:10:51.900" region="speaker">Is the songover already?</p>
+         <p begin="00:10:51.900" end="00:10:53.867" region="speaker">You guys shouldn&apos;t havetried to start without me.</p>
+         <p begin="00:10:53.867" end="00:10:55.533" region="speaker">You just wasteda lot of time.</p>
+         <p begin="00:10:55.533" end="00:10:57.767" region="speaker">Well, at leastTD had an idea.</p>
+         <p begin="00:10:57.767" end="00:11:00.333" region="speaker">Yeah? I think I know why.</p>
+         <p begin="00:11:00.333" end="00:11:03.600" region="speaker">How come you know so muchabout litter and debris, huh?</p>
+         <p begin="00:11:03.600" end="00:11:05.567" region="speaker">ALICE:Knock it off,Ronald.</p>
+         <p begin="00:11:05.567" end="00:11:07.467" region="speaker">What? Protectingyour friend?</p>
+         <p begin="00:11:07.467" end="00:11:09.767" region="speaker">Ronald, it&apos;s notimportant who did it,</p>
+         <p begin="00:11:09.767" end="00:11:12.166" region="speaker">just that we keep itfrom happening again.</p>
+         <p begin="00:11:12.166" end="00:11:15.066" region="speaker">Yeah, I&apos;m sure I littered beforeI knew it could itch so much.</p>
+         <p begin="00:11:15.066" end="00:11:17.633" region="speaker">(Skits barks wearily)</p>
+         <p begin="00:11:17.633" end="00:11:18.867" region="speaker">HELEN:What is it,Skits?</p>
+         <p begin="00:11:18.867" end="00:11:20.200" region="speaker">(barks excitedly)</p>
+         <p begin="00:11:20.200" end="00:11:23.000" region="speaker">Skits says he found outwho left the broken glass.</p>
+         <p begin="00:11:23.000" end="00:11:24.433" region="speaker">You&apos;re goingto listen to a dog?</p>
+         <p begin="00:11:24.433" end="00:11:26.133" region="speaker">(barks)</p>
+         <p begin="00:11:26.133" end="00:11:28.533" region="speaker">According to thatstinking tabby cat</p>
+         <p begin="00:11:28.533" end="00:11:31.533" region="speaker">that hangs out in the park,it happened two nights ago.</p>
+         <p begin="00:11:31.533" end="00:11:33.533" region="speaker">(Skits barks)</p>
+         <p begin="00:11:33.533" end="00:11:36.600" region="speaker">MARTHA:Someone set up bottleson the wall.</p>
+         <p begin="00:11:36.600" end="00:11:37.800" region="speaker">TD:And...</p>
+         <p begin="00:11:37.800" end="00:11:39.600" region="speaker">MARTHA:And...</p>
+         <p begin="00:11:39.600" end="00:11:42.734" region="speaker">ALICE:Someone broke bottlesto practice pitching?</p>
+         <p begin="00:11:42.734" end="00:11:44.734" region="speaker">What?</p>
+         <p begin="00:11:44.734" end="00:11:46.533" region="speaker">Why is everyonestaring?</p>
+         <p begin="00:11:46.533" end="00:11:49.233" region="speaker">Where were you twonights ago, Ronald?</p>
+         <p begin="00:11:49.233" end="00:11:50.734" region="speaker">Well, er...</p>
+         <p begin="00:11:50.734" end="00:11:52.934" region="speaker">that is...</p>
+         <p begin="00:11:52.934" end="00:11:54.433" region="speaker">(laughs nervously)</p>
+         <p begin="00:11:56.633" end="00:11:58.433" region="speaker">Maybe you guysare right.</p>
+         <p begin="00:11:58.433" end="00:12:00.633" region="speaker">It&apos;s not so importantwho made the mess</p>
+         <p begin="00:12:00.633" end="00:12:03.767" region="speaker">as much as inspiring peopleto be less thoughtless.</p>
+         <p begin="00:12:03.767" end="00:12:05.433" region="speaker">People just needto understand</p>
+         <p begin="00:12:05.433" end="00:12:08.767" region="speaker">how a little littercan lead to a lot worse.</p>
+         <p begin="00:12:08.767" end="00:12:11.200" region="speaker">Martha!</p>
+         <p begin="00:12:11.200" end="00:12:13.767" region="speaker">It itches!</p>
+         <p begin="00:12:18.100" end="00:12:20.066" region="speaker">Hey, check out this song!</p>
+         <p begin="00:12:20.066" end="00:12:21.367" region="speaker">(reggae music plays)</p>
+         <p begin="00:12:21.367" end="00:12:22.533" region="speaker">HELEN:This is trash</p>
+         <p begin="00:12:22.533" end="00:12:24.367" region="speaker">You throw it away</p>
+         <p begin="00:12:24.367" end="00:12:26.533" region="speaker">MARTHA:There&apos;s piles and pilesof it every day</p>
+         <p begin="00:12:26.533" end="00:12:29.300" region="speaker">HELEN:It&apos;s runny and smellyand full of debris</p>
+         <p begin="00:12:29.300" end="00:12:32.934" region="speaker">MARTHA:And it comes from you and me</p>
+         <p begin="00:12:32.934" end="00:12:35.000" region="speaker">HELEN:It&apos;s stinky,worse than you think-y</p>
+         <p begin="00:12:35.000" end="00:12:38.266" region="speaker">It&apos;s gloppyand kind of sloppy</p>
+         <p begin="00:12:38.266" end="00:12:39.533" region="speaker">It&apos;s gooey</p>
+         <p begin="00:12:39.533" end="00:12:40.667" region="speaker">Ugh, on your shoe-y.</p>
+         <p begin="00:12:40.667" end="00:12:43.633" region="speaker">And it comes from you and me</p>
+         <p begin="00:12:43.633" end="00:12:45.834" region="speaker">So don&apos;t be thoughtlesswith your litter, friend</p>
+         <p begin="00:12:45.834" end="00:12:48.700" region="speaker">Put all your trashin a garbage bin</p>
+         <p begin="00:12:48.700" end="00:12:51.100" region="speaker">MARTHA:And I will take itback out again</p>
+         <p begin="00:12:51.100" end="00:12:53.834" region="speaker">Whoa!(crash)</p>
+         <p begin="00:12:53.834" end="00:12:56.834" region="speaker">HELEN:If you dig in trashI threw away</p>
+         <p begin="00:12:56.834" end="00:12:58.200" region="speaker">You&apos;ll need anotherbath today</p>
+         <p begin="00:12:58.200" end="00:12:59.934" region="speaker">Aww...</p>
+         <p begin="00:13:24.834" end="00:13:27.767" region="speaker">Captioned byMedia Access Group at WGBHaccess.wgbh.org</p>
+         <p begin="00:00:03.400" end="00:00:03.400" region="speaker">Martha Speakspe</p>
+    </div>
+  </body>
+</tt>

@@ -1,0 +1,24 @@
+{
+
+"images": [
+    "boat.png"
+],
+
+"frames": [
+    [1, 1, 602, 168, 0, -17, -8],
+    [1, 171, 600, 164, 0, -19, -9],
+    [1, 337, 600, 162, 0, -21, -8],
+    [1, 501, 599, 164, 0, -21, -9],
+    [1, 667, 599, 163, 0, -24, -6]
+],
+
+"animations": {
+    "boat": { "frames": [1, 2, 4, 3, 0] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:f8d7c08c6b8bdc9d528f4b3b8402ac08:f589bcf6347e6d6ea090426eb1970591:a33bb37bf4e811bd5c14c699da942315$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}
